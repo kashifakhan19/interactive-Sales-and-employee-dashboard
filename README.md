@@ -54,5 +54,3 @@ Correlation between sales and employee KPIs
 
 📊 KPIs for management decision-making
 
-## Dashboard
-C:\Users\kashifa\OneDrive\Pictures\Screenshots
