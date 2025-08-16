@@ -1,2 +1,10 @@
-# interactive-Sales-and-employee-dashboard
-Interactive Sales &amp; Employee Dashboard – Cleaned raw data (outliers, missing values, formatting, special characters) using Python, visualized trends with Seaborn/Matplotlib, and built an interactive Tableau dashboard for sales and employee performance analysis.
+#📊 Interactive Sales & Employee Dashboard
+##📌 Project Overview
+
+This project demonstrates the end-to-end process of data analysis and visualization:
+
+Data Cleaning: Removed outliers, handled missing values, standardized formatting, and removed special characters using Python (Pandas & NumPy).
+
+Exploratory Data Analysis (EDA): Visualized trends and insights with Seaborn & Matplotlib.
+
+Interactive Dashboard: Built an interactive Tableau dashboard to analyze Sales Trends & Employee Performance, making data-driven decision-making easier.
