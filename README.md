@@ -1,5 +1,5 @@
-#📊 Interactive Sales & Employee Dashboard
-##📌 Project Overview
+# 📊 Interactive Sales & Employee Dashboard
+## 📌 Project Overview
 
 This project demonstrates the end-to-end process of data analysis and visualization:
 
