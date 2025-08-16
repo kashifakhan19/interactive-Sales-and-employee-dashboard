@@ -56,3 +56,6 @@ Dashboard in Tableau
 👨‍💼 Employee Performance Dashboard
 
 📊 KPIs for management decision-making
+
+## Dashboard
+C:\Users\kashifa\OneDrive\Pictures\Screenshots
