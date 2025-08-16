@@ -49,9 +49,6 @@ Employee performance metrics
 
 Correlation between sales and employee KPIs
 
-Dashboard in Tableau
-
-📈 Sales Overview Dashboard
 
 👨‍💼 Employee Performance Dashboard
 
