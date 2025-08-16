@@ -54,3 +54,21 @@ Correlation between sales and employee KPIs
 
 📊 KPIs for management decision-making
 
+# 📌 Key Insights
+
+Identified top-performing employees and improvement areas.
+
+Found seasonal sales trends and product performance.
+
+Discovered correlations between employee productivity and sales growth.
+
+Built KPIs to help management track growth.
+
+# ✨ Future Enhancements
+
+Automate data pipeline using ETL tools / Airflow
+
+Integrate with Power BI for comparison
+
+Deploy as a Web App with Flask/Django
+
