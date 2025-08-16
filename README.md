@@ -1,5 +1,5 @@
-## 📊 Interactive Sales & Employee Dashboard
-# 📌 Project Overview
+# 📊 Interactive Sales & Employee Dashboard
+## 📌 Project Overview
 
 This project demonstrates the end-to-end data analytics pipeline using Python and Tableau.
 
@@ -13,7 +13,7 @@ Performed EDA (Exploratory Data Analysis) using Seaborn & Matplotlib.
 
 Built an interactive Tableau dashboard for Sales & Employee Performance Analysis.
 
-# ⚙️ Tech Stack / Tools
+## ⚙️ Tech Stack / Tools
 
 Python → Data cleaning & preprocessing
 
@@ -23,7 +23,7 @@ Seaborn & Matplotlib → Data visualization (EDA)
 
 Tableau → Interactive dashboard creation
 
-# 📂 Project Workflow
+## 📂 Project Workflow
 
 Data Cleaning (Python)
 
@@ -54,7 +54,7 @@ Correlation between sales and employee KPIs
 
 📊 KPIs for management decision-making
 
-# 📌 Key Insights
+## 📌 Key Insights
 
 Identified top-performing employees and improvement areas.
 
@@ -64,7 +64,7 @@ Discovered correlations between employee productivity and sales growth.
 
 Built KPIs to help management track growth.
 
-# ✨ Future Enhancements
+## ✨ Future Enhancements
 
 Automate data pipeline using ETL tools / Airflow
 
