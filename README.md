@@ -1,15 +1,19 @@
-# 📊 Interactive Sales & Employee Dashboard
-## 📌 Project Overview
+## 📊 Interactive Sales & Employee Dashboard
+# 📌 Project Overview
 
-This project demonstrates the end-to-end process of data analysis and visualization:
+This project demonstrates the end-to-end data analytics pipeline using Python and Tableau.
 
-Data Cleaning: Removed outliers, handled missing values, standardized formatting, and removed special characters using Python (Pandas & NumPy).
+Sales Data and Employee Data were taken from different sources.
 
-Exploratory Data Analysis (EDA): Visualized trends and insights with Seaborn & Matplotlib.
+Cleaned both datasets individually (handled outliers, missing values, formatting issues, and special characters).
 
-Interactive Dashboard: Built an interactive Tableau dashboard to analyze Sales Trends & Employee Performance, making data-driven decision-making easier.
+Merged the datasets to create a unified dataset for deeper analysis.
 
-## ⚙️ Tech Stack / Tools
+Performed EDA (Exploratory Data Analysis) using Seaborn & Matplotlib.
+
+Built an interactive Tableau dashboard for Sales & Employee Performance Analysis.
+
+# ⚙️ Tech Stack / Tools
 
 Python → Data cleaning & preprocessing
 
@@ -19,38 +23,36 @@ Seaborn & Matplotlib → Data visualization (EDA)
 
 Tableau → Interactive dashboard creation
 
-## 📂 Project Workflow
+# 📂 Project Workflow
 
 Data Cleaning (Python)
 
-Removed duplicates and outliers
+Cleaned Sales dataset separately
 
-Handled missing values
+Cleaned Employee dataset separately
 
-Fixed inconsistent formatting & special characters
+Removed duplicates, handled missing values, and fixed formatting issues
+
+Standardized column names and data types
+
+Data Merging
+
+Combined Sales & Employee datasets into one structured dataset
+
+Created a relational mapping between employees and sales
 
 Exploratory Data Analysis (EDA)
 
-Sales trend analysis (monthly, yearly)
+Sales trend analysis (monthly, yearly, product-wise)
 
 Employee performance metrics
 
-Correlation between features
+Correlation between sales and employee KPIs
 
 Dashboard in Tableau
 
-📈 Sales Overview
+📈 Sales Overview Dashboard
 
-👨‍💼 Employee Performance Analysis
+👨‍💼 Employee Performance Dashboard
 
 📊 KPIs for management decision-making
-
-##Dataset used
-
-## 📌 Key Insights
-
-Identified top-performing employees and improvement areas.
-
-Found seasonal trends in sales.
-
-Built KPIs to help management track growth.
