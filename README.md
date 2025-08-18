@@ -64,11 +64,8 @@ Discovered correlations between employee productivity and sales growth.
 
 Built KPIs to help management track growth.
 
-## ✨ Future Enhancements
+## Dashboard
+<img width="1920" height="1200" alt="Screenshot 2025-07-22 201401" src="https://github.com/user-attachments/assets/e4f81d91-40af-4363-8ac7-17dd6a9a2032" />
 
-Automate data pipeline using ETL tools / Airflow
 
-Integrate with Power BI for comparison
-
-Deploy as a Web App with Flask/Django
 
